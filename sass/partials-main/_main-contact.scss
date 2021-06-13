@@ -1,0 +1,67 @@
+// contact styles
+
+.contactme-quote {
+
+  float: left ;
+  height: 399px ;
+  width: 1368px ;
+
+  h3 {
+
+    color: $beige ;
+    font-size: 2.7rem;
+    line-height: 48px;
+    text-align: justify ;
+    padding-top: 80px ;
+    margin-left: 108px ;
+    width: 1156px ;
+
+    b {
+
+      color: $darkcyan ;
+    }
+    }
+}
+
+.contactme-infromation{
+
+  float: left ;
+  height: 700px ;
+
+  h2 {
+
+    color: $beige ;
+    font-weight: bold ;
+    font-size: 2rem ;
+    margin-left: 259px ;
+    margin-bottom: 40px ;
+  }
+
+  p {
+
+    color: $beige ;
+    font-size: 1rem ;
+    font-weight: lighter ;
+    text-align: justify ;
+    margin-left: 259px ;
+    margin-bottom: 40px ;
+    width: 880px ;
+
+    b {
+
+      color: $darkcyan ;
+    }
+  }
+
+  ul {
+
+    margin-left: 259px;
+  }
+}
+
+.contactme-list li {
+
+  color: $beige ;
+  font-weight: lighter ;
+  margin-bottom: 30px ;
+}

@@ -1,0 +1,49 @@
+.header-box{
+
+  height: 111px ;
+}
+
+.header-list{
+
+  float: right;
+  margin-right: 106px ;
+  margin-top: 41px ;
+}
+
+.header-list-nav{
+
+  li {
+
+    float: left ;
+    list-style: none ;
+
+    a{
+
+    color: $beige ;
+    font-size: 1rem ;
+    font-weight: lighter;
+    text-decoration: none ;
+
+    } :hover {
+
+      text-decoration: underline ;
+    }
+  }
+  li + li {
+
+    margin-left: 52px ;
+  }
+}
+
+.header-logo{
+
+  float: left ;
+  margin-top: 30px ;
+  margin-left: 96px;
+
+  img {
+
+    width: 86px ;
+  }
+}
+

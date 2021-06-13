@@ -1,0 +1,34 @@
+// Global styles
+
+.wrapper {
+
+  background-color: $darkblue;
+  margin: 0 auto ;
+  width: 1368px ;
+}
+
+html{
+
+  background-color: black;
+  margin: 0 ;
+}
+
+body {
+
+  font-family: $raleway ;
+}
+
+p {
+  line-height: 25px;
+}
+
+ul {
+
+  margin: 0 ;
+  padding: 0;
+}
+
+li {
+
+  list-style: none ;
+}
